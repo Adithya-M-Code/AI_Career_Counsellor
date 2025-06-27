@@ -104,6 +104,14 @@ The **AI Virtual Career Counsellor** is an intelligent web-based application tha
 
 ---
 
+## 🎥 Project Demo Video
+
+Watch the working demo of the **AI Career Counsellor** project:
+
+[📽️ Click here to watch the video](demo_video/AI_Career_Counsellor_Demo.mp4)
+
+---
+
 ## 📂 Project Structure
 ```
 AI_Career_Counsellor/
