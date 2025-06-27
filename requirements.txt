@@ -1,0 +1,4 @@
+streamlit
+google-generativeai
+streamlit-chat
+Pillow
