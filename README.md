@@ -125,6 +125,9 @@ AI_Career_Counsellor/
 ├── pages/
 │   └── 1_Chatbot.py
 │
+├── demo_video/
+│   └── AI_Career_Counsellor_Demo.mp4
+|
 ├── Home.py
 ├── user_data.json
 ├── chat_history.json
